@@ -22,3 +22,6 @@ This project analyzes marketing campaign performance and ROI using Microsoft Pow
 
 ## Objective
 The objective of this project is to analyze marketing campaign performance and identify key insights that can help in evaluating campaign effectiveness and return on investment.
+## Dashboard Preview
+
+![Marketing Campaign ROI Dashboard](MARKETING_CAMPAIGN_ROI_DASHBOARD.png)
